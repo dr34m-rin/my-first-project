@@ -37,6 +37,14 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.form-note {
+    color: #666;
+    font-size: 0.9rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
 .skills-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -55,6 +63,7 @@ footer {
     margin-top: 0;
     color: #35424a;
 }
+
 .form-group {
     margin-bottom: 1rem;
 }
@@ -86,6 +95,7 @@ button {
 button:hover {
     background: #45a049;
 }
+
 .skills-note {
     font-style: italic;
     color: #666;
